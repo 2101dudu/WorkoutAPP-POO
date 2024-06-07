@@ -53,7 +53,7 @@ java Fitness
 
 ## Final Notes
 
-In this repo you will find the file "ficheiroComEstado", that has a prepared simulation ready to use, with the following instructions.
+In this repo you will find the file "ficheiroComEstado", which has a prepared simulation ready to use, with the following instructions.
 
 ```
 Os utilizadores possuem planos de treino diferenciados, onde houve um avanço no tempo de 60 dias. Por causa disso, alguns dos planos de treino já se encontram realizados. A título de exemplo, o plano de treino mais exigente (calculado a partir do número de calorias do plano a dividir pelo número de semanas) é um plano de treino já realizado, ou seja, não apresenta atividades por realizar na lista de atividades.

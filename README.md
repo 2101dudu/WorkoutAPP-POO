@@ -1,4 +1,4 @@
-<h1 align="center">Programação Orientada aos Objetos<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" target="_blank" title="C" alt="C" width="30" height="30"/></h1>
+<h1 align="center">Programação Orientada aos Objetos<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" target="_blank" title="Java" alt="C" width="30" height="30"/></h1>
 
 <h3 align="center">Made using the Java programming language during the 2st semester of the 2nd year</h3> 
 
